@@ -33,4 +33,4 @@ I am highly adaptable, whether it's embracing new technologies, managing teams, 
 - 💼 LinkedIn: [ashutosh-iwale](https://www.linkedin.com/in/ashutosh-iwale)
 
 
-** Fun Fact: In the past two years, I’ve excelled as a Software Developer, AI Mentor, Program Manager, and AI Engineer—continuously expanding my expertise to drive impactful innovations.
+- **Fun Fact** : In the past two years, I’ve excelled as a Software Developer, AI Mentor, Program Manager, and AI Engineer—continuously expanding my expertise to drive impactful innovations.
