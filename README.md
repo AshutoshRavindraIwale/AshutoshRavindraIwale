@@ -26,9 +26,6 @@ I am highly adaptable, whether it's embracing new technologies, managing teams, 
 - **Garbage Classification Project**: Computer vision solution for waste management
 - **Robot Sensing & Navigation**: MATLAB-based autonomous navigation system
 
-## 📈 GitHub Stats
-![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshutoshRavindraIwale&show_icons=true&theme=radical)
-
 ## 🤝 Let's Connect
 - 💼 LinkedIn: [ashutosh-iwale](https://www.linkedin.com/in/ashutosh-iwale)
 
