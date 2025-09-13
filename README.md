@@ -31,13 +31,6 @@ I am highly adaptable, whether it's embracing new technologies, managing teams, 
 
 ## 🤝 Let's Connect
 - 💼 LinkedIn: [ashutosh-iwale](https://www.linkedin.com/in/ashutosh-iwale)
-- 📧 Email: Feel free to reach out for collaboration opportunities!
-- 💬 Ask me about: AI/ML, Full-Stack Development, Robotics, or any interesting tech projects
 
-## 🎯 Goals for 2025
-- Contribute to open-source AI projects
-- Build more full-stack applications with AI integration
-- Expand knowledge in distributed systems and cloud computing
-- Mentor aspiring developers in the tech community
 
-⚡ **Fun Fact**: I love exploring the latest AI research papers and implementing cutting-edge algorithms in real-world applications!
+** Fun Fact: In the past two years, I’ve excelled as a Software Developer, AI Mentor, Program Manager, and AI Engineer—continuously expanding my expertise to drive impactful innovations.
