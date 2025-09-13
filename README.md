@@ -2,7 +2,7 @@
 Welcome to my GitHub space—where ideas turn into code and curiosity drives innovation. Whether you're here to explore projects, collaborate, or just take a peek, you're in the right place. Dive in and let's build something impactful together!
 
 ## About Me
-I am highly adaptable, whether it's embracing new technologies, managing teams, cooking, or building infrastructure for the Internet of AI agents. I refuse to confine myself within the constraints of conventional boundaries. Currently, I am passionate about building distributed systems, leading software development teams, and exploring how existing technologies can be leveraged to create tomorrow's agentic web. In this future, you and I will have digital twins, easily discoverable by billions of agents hosted across the internet.
+I am highly adaptable, whether it's embracing new technologies, managing teams, cooking, or building infrastructure for the Internet of AI agents. Currently, I am passionate about building distributed systems, leading software development teams, and exploring how existing technologies can be leveraged to create tomorrow's agentic web. In this future, you and I will have digital twins, easily discoverable by billions of agents hosted across the internet.
 
 ## 🔭 What I'm Currently Working On
 - **AI/ML Projects**: Developing intelligent systems for document processing and financial analysis
