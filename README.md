@@ -19,7 +19,7 @@ I am highly adaptable, whether it's embracing new technologies, managing teams, 
 
 - **Startup-Swift (Private repository)**: This tool serves as an ATS for startup applications. It assists in identifying startups that align with the goals of C10 Labs. The tool utilizes AI to perform a preliminary scan through 200 startups interested in participating in the cohort: https://www.c10labs.com/
 
-##Personal projects
+## Personal projects
 - **DocuMind-AI**: Intelligent document processing system using advanced NLP
 - **Netflix Context Agent**: Smart recommendation system with contextual understanding
 - **Multi-Agent Financial Analysis**: Collaborative AI system for financial data analysis
