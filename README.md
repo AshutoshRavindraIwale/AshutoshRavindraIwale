@@ -4,10 +4,8 @@ Welcome to my GitHub space—where ideas turn into code and curiosity drives inn
 ## About Me
 I am highly adaptable, whether it's embracing new technologies, managing teams, cooking, or building infrastructure for the Internet of AI agents. Currently, I am passionate about building distributed systems, leading software development teams, and exploring how existing technologies can be leveraged to create tomorrow's agentic web. In this future, you and I will have digital twins, easily discoverable by billions of agents hosted across the internet.
 
-## 🔭 What I'm Currently Working On
-- **AI/ML Projects**: Developing intelligent systems for document processing and financial analysis
-- **Full-Stack Development**: Building scalable web applications with modern frameworks  
-- **Robotics**: Working on sensing and navigation systems for autonomous robots
+## What I'm Currently Working On
+- **Project Nanda**: Creating the infrastructure and governance for the Open Agentic Web, enabling secure, scalable collaboration among trillions of AI agents. It focuses on agent discovery, interoperability, and responsible coordination across organizations. Check out this link for more info : https://projnanda.github.io/projnanda/#/
 
 ## 🛠️ Technologies & Tools
 - **Languages**: Python, JavaScript, MATLAB, Java
