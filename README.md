@@ -1,4 +1,4 @@
-# Hey there, curious mind! I'm Ashutosh Ravindra Iwale
+# Hey there, curious mind! I'm Ashutosh
 Welcome to my GitHub space—where ideas turn into code and curiosity drives innovation. Whether you're here to explore projects, collaborate, or just take a peek, you're in the right place. Dive in and let's build something impactful together!
 
 ## About Me
