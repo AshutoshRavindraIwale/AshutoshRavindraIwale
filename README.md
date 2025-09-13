@@ -14,7 +14,12 @@ I am highly adaptable, whether it's embracing new technologies, managing teams, 
 - **Databases**: PostgreSQL, MongoDB, MySQL
 - **Tools**: Git, Docker, AWS, Jupyter Notebooks
 
-## 🌟 Featured Projects
+## Featured Projects
+- **MIT SPOT TOOL (Private repository)**: Develop an idea-generating tool that leverages the capabilities of AI and the Spot-probe framework. This tool has been instrumental in assisting over 350 entrepreneurs at MIT’s class: https://aiforimpact.github.io/fall25.html
+
+-**Startup-Swift (Private repository)**: This tool serves as an ATS for startup applications. It assists in identifying startups that align with the goals of C10 Labs. The tool utilizes AI to perform a preliminary scan through 200 startups interested in participating in the cohort: https://www.c10labs.com/
+
+###Personal projects
 - **DocuMind-AI**: Intelligent document processing system using advanced NLP
 - **Netflix Context Agent**: Smart recommendation system with contextual understanding
 - **Multi-Agent Financial Analysis**: Collaborative AI system for financial data analysis
