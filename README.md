@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Ashutosh Ravindra Iwale
 
 ## About Me
-I'm a passionate software engineer and AI enthusiast based in Boston, focused on building innovative solutions at the intersection of technology and real-world applications. With expertise in machine learning, web development, and robotics, I enjoy tackling complex problems and creating impactful projects.
+I am highly adaptable, whether it's embracing new technologies, managing teams, cooking, or building infrastructure for the Internet of AI agents. I refuse to confine myself within the constraints of conventional boundaries. Currently, I am passionate about building distributed systems, leading software development teams, and exploring how existing technologies can be leveraged to create tomorrow's agentic web. In this future, you and I will have digital twins, easily discoverable by billions of agents hosted across the internet.
 
 ## 🔭 What I'm Currently Working On
 - **AI/ML Projects**: Developing intelligent systems for document processing and financial analysis
